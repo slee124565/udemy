@@ -4,8 +4,8 @@ Udemy
 .. image:: https://travis-ci.com/slee124565/udemy.svg?branch=master
    :target: https://travis-ci.com/slee124565/udemy
    
-.. image:: https://coveralls.io/repos/github/udemy-course/udemy/badge.svg
-   :target: https://coveralls.io/github/udemy-course/udemy
+.. image:: https://coveralls.io/repos/github/slee124565/udemy/badge.svg
+   :target: https://coveralls.io/github/slee124565/udemy
 
 .. image:: https://img.shields.io/hexpm/l/plug.svg
    :target: https://github.com/udemy-course/udemy/blob/master/LICENSE
