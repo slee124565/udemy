@@ -19,11 +19,11 @@ from udemy import Udemy
 from udemy.cli import main
 
 
-# class TestCLI(unittest.TestCase):
+class TestCLI(unittest.TestCase):
 
-#     def test_instance(self):
-#         myudemy = main()
-#         self.assertEqual(isinstance(myudemy, Udemy), True)
+    def test_instance(self):
+        myudemy = main()
+        self.assertEqual(isinstance(myudemy, Udemy), True)
 
 
 if __name__ == '__main__':
